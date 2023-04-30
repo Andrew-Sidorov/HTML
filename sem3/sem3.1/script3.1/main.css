@@ -1,0 +1,13 @@
+.dark {
+    background-color: rgb(155, 172, 59);
+}
+
+.light {
+    background-color: rgb(23, 140, 241);
+    color: black;
+}
+
+.Theme_button {
+    color: brown;
+    background-color: black;
+}
